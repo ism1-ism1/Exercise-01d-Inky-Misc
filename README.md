@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Ian Smith
 
-# Your Github username
+# Ism1-Ism1
